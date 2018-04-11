@@ -6,3 +6,5 @@ xxoo this is the three version
 i love you forever
 
 i miss you
+
+i hate you
