@@ -11,4 +11,4 @@ i hate you
 
 i think you
 
-create a new branch is quick
+create a new branch is quick and simple
